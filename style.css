@@ -1,0 +1,113 @@
+body {
+	background-image: url(5183000.jpg);
+	background-size: cover;
+
+}
+
+p {
+	color: #496D89;
+	text-align: center;
+	border: 5px solid rgba(113, 142, 164, 0.5); #718EA4;
+	cursor: pointer;
+}
+
+p {
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 180%;
+	font-family: 'Poiret One', cursive;
+}
+
+img {
+	float: right;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+	
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+header {
+	text-align: center;
+}
+
+.webtext:last-child {
+		text-align: center;
+		border: 5px solid rgba(113, 142, 164, 0.5); #718EA4;
+}
+
+.active {
+	color: red;
+}
+
+#div1 {
+	background: rgba(0, 0, 255, 0.1);
+}
+
+#div2 {
+	background: rgba(255, 0, 0, 0.2);
+}
+
+/*
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border: 5px solid rgba(113, 142, 164, 0.5); #718EA4;
+	margin: 5px;
+	height: 50px;
+	
+	flex-wrap: wrap;
+
+
+	grid-template-areas:
+
+		"a a a a"
+		"b b c c"
+		"b b d d"
+		"e e e e";
+}
+/*
+
+.item-1 {
+	grid-area: a;
+	display: flex;
+	justify-content: center;
+}
+
+
+.item-2 {
+	grid-area: b;
+	display: flex;
+	justify-content: center;
+}
+
+.item-3 {
+	grid-area: c;
+
+}
+
+.item-4 {
+	grid-area: d;
+}
+
+
+.item-5 {
+	grid-area: e;
+}
+*/
